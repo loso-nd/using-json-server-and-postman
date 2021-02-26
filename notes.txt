@@ -1,0 +1,4 @@
+Learning how to use  tools that can mimic both frontend requests and backend responses. 
+For the frontend, we have Postman (Links to an external site.), an app that can be used to build requests without writing code. 
+For the backend, we have JSON Server (Links to an external site.), a Node application that mimics the behavior of a full 
+backend server.
